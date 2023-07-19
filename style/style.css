@@ -365,7 +365,7 @@ nav ul {
   margin-top: 3rem;
 }
 
-.form-section form {
+.form-section p {
   padding: 3rem 10rem;
   -webkit-box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2);
