@@ -24,6 +24,7 @@ input,
 a,
 p {
   font-size: 2.5rem;
+  text-align: justify;
 }
 
 h2 {
