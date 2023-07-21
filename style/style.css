@@ -348,6 +348,7 @@ nav ul {
 
 .form-section {
   min-height: 80vh;
+  padding: 10px 20px;
   /* background-color: aliceblue; */
   display: -webkit-box;
   display: -ms-flexbox;
@@ -367,7 +368,7 @@ nav ul {
 }
 
 .form-section p {
-  padding: 5rem 10rem;
+  padding: 5rem;
   background-color: rgb(235, 236, 233);
    /* -webkit-box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2); */
           /* box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2); */
@@ -435,7 +436,7 @@ footer {
 }
 .button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 5px 20px;
   background-color: #4CAF50;
   color: white;
   text-decoration: none;
