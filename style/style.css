@@ -348,10 +348,11 @@ nav ul {
 
 .form-section {
   min-height: 80vh;
+  /* background-color: aliceblue; */
   display: -webkit-box;
   display: -ms-flexbox;
   display: block;
-  padding: 10px;
+  padding:5px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -366,9 +367,10 @@ nav ul {
 }
 
 .form-section p {
-  padding: 3rem 10rem;
-  -webkit-box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2);
-          box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2);
+  padding: 5rem 10rem;
+  background-color: rgb(235, 236, 233);
+   /* -webkit-box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2); */
+          /* box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2), 0px 20px 40px rgba(0, 0, 0, 0.2); */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -382,7 +384,7 @@ nav ul {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-radius: 2rem;
+   /* border-radius: 2rem;  */
 }
 
 
