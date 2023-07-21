@@ -17,7 +17,7 @@ h1 {
   font-size: 2.5rem;
 }
 
-li,button
+li,button,
 label,
 input,
 a,
@@ -433,7 +433,17 @@ footer {
       -ms-flex-direction: row;
           flex-direction: row;
 }
-
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
 footer ul {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
